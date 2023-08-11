@@ -1,0 +1,12 @@
+com.example.book_app-jetified-window-java-1.0.0-beta04-0 C:\Users\DELL\.gradle\caches\transforms-3\100112f5374409e5bc2f2315bec6cf97\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.book_app-jetified-window-1.0.0-beta04-1 C:\Users\DELL\.gradle\caches\transforms-3\103791c2f7901c14b74f5223eb913f4e\transformed\jetified-window-1.0.0-beta04\res
+com.example.book_app-core-1.6.0-2 C:\Users\DELL\.gradle\caches\transforms-3\a899aba9b4d1ee43edefcc33900277c2\transformed\core-1.6.0\res
+com.example.book_app-jetified-annotation-experimental-1.1.0-3 C:\Users\DELL\.gradle\caches\transforms-3\c6cf0aae5bacee70a22af63b5c549faa\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.book_app-debug-4 D:\BA\Moblie_Class-main\ThucHanhTuan4\Bai3\android\app\src\debug\res
+com.example.book_app-main-5 D:\BA\Moblie_Class-main\ThucHanhTuan4\Bai3\android\app\src\main\res
+com.example.book_app-pngs-6 D:\BA\Moblie_Class-main\ThucHanhTuan4\Bai3\build\app\generated\res\pngs\debug
+com.example.book_app-resValues-7 D:\BA\Moblie_Class-main\ThucHanhTuan4\Bai3\build\app\generated\res\resValues\debug
+com.example.book_app-rs-8 D:\BA\Moblie_Class-main\ThucHanhTuan4\Bai3\build\app\generated\res\rs\debug
+com.example.book_app-mergeDebugResources-9 D:\BA\Moblie_Class-main\ThucHanhTuan4\Bai3\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.book_app-mergeDebugResources-10 D:\BA\Moblie_Class-main\ThucHanhTuan4\Bai3\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.book_app-merged_res-11 D:\BA\Moblie_Class-main\ThucHanhTuan4\Bai3\build\app\intermediates\merged_res\debug
